@@ -10,3 +10,4 @@
   Agora apresento o mesmo projeto desenvolvido em HTML, CSS e JAVASCRIPT.
   
 </p>
+<img src="https://github.com/ProgramadorCaetano/CaetanoMagico/blob/main/images/CaeMagic1.png?raw=true"/>
